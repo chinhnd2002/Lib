@@ -1,0 +1,12 @@
+
+v
+java:S1488#"`Immediately return this expression instead of assigning it to the temporary variable "password".(ªßÀ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Ò¸§€úÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+E	java:S106+"+Replace this use of System.out by a logger.(ó¬¡íùÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ó¬¡íùÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(ÂÎü

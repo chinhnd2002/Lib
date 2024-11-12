@@ -1,0 +1,15 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "fullName" 3 times.(Š×Í–
+\
+java:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(æºù
+M
+java:S1135="2Complete the task associated to this TODO comment.(¿Ë—÷øÿÿÿÿ
+M
+java:S1135U"2Complete the task associated to this TODO comment.(£¤£Œÿÿÿÿÿ
+K
+java:S1874]"5Remove this use of "setSigningKey"; it is deprecated.(ëöâ‡
+`
+java:S2441j"EMake "UserDetailToken" serializable or don't store it in the session.(£´ª¢şÿÿÿÿ
+[
+java:S2441l"EMake "UserDetailToken" serializable or don't store it in the session.(‚¥½¾

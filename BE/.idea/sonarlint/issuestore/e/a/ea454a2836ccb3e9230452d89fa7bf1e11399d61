@@ -1,0 +1,19 @@
+
+t
+java:S1192A"YDefine a constant instead of duplicating this literal "<div class='form-group'>" 5 times.(Ò×öˆøÿÿÿÿ
+d
+java:S1192E"IDefine a constant instead of duplicating this literal "</label>" 3 times.(¾êÉıÿÿÿÿ
+b
+java:S1192C"GDefine a constant instead of duplicating this literal "</div>" 8 times.(ğöØçıÿÿÿÿ
+a
+java:S1192-"FDefine a constant instead of duplicating this literal "utf-8" 3 times.(äÑùçÿÿÿÿÿ
+k
+java:S3655h"PCall "optional.isPresent()" or "!optional.isEmpty()" before accessing the value.(æ÷¹Ùşÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+T
+java:S1128"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ

@@ -1,0 +1,13 @@
+
+`
+java:S1192,"JDefine a constant instead of duplicating this literal "/admin/**" 5 times.(œè…à
+^
+java:S1192,"HDefine a constant instead of duplicating this literal "EMLOYEE" 7 times.(œè…à
+]
+java:S1192,"GDefine a constant instead of duplicating this literal "ADMIN" 11 times.(œè…à
+^
+java:S5738'"HRemove this call to a deprecated method, it has been marked for removal.(ðÉûã
+c
+java:S5738("HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ
+i
+java:S1128"SRemove this unused import 'com.example.shose.server.infrastructure.constant.Roles'.( µ Ä

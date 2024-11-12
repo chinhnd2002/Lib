@@ -1,0 +1,27 @@
+
+w
+java:S14887"\Immediately return this expression instead of assigning it to the temporary variable "bill".(È¬¡øÿÿÿÿ
+S
+java:S1163O"=Refactor this code to not throw exceptions in finally blocks.(ö™û
+J
+java:S1143O"4Remove this throw statement from this finally block.(ö™û
+c
+java:S20951"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ì¢™
+R
+java:S2589G"7Remove this expression which always evaluates to "true"(§ÀÏŸûÿÿÿÿ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+m
+java:S2737D"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+h
+java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+m
+java:S2737O"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+E
+java:S2093/"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ
+A
+java:S1128	"+Remove this unused import 'lombok.Builder'.(§’Ğß
+K
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›
